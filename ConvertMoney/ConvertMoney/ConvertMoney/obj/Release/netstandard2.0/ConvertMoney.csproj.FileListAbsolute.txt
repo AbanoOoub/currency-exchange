@@ -1,0 +1,13 @@
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\bin\Release\netstandard2.0\ConvertMoney.deps.json
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\bin\Release\netstandard2.0\ConvertMoney.dll
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\bin\Release\netstandard2.0\ConvertMoney.pdb
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.csprojAssemblyReference.cache
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\welcome.xaml.g.cs
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.csproj.CoreCompileInputs.cache
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.AssemblyInfoInputs.cache
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.AssemblyInfo.cs
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.dll
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney\obj\Release\netstandard2.0\ConvertMoney.pdb

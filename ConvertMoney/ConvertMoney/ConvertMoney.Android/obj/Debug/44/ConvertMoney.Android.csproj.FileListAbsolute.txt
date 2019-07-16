@@ -1,0 +1,5 @@
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney.Android\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney.Android\obj\Debug\44\ConvertMoney.Android.nuget.stamp
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney.Android\obj\Debug\44\ConvertMoney.Android.csprojAssemblyReference.cache
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney.Android\obj\Debug\44\libraryimports.cache.stamp
+C:\Users\hs\source\repos\ConvertMoney\ConvertMoney\ConvertMoney.Android\obj\Debug\44\res.flag
